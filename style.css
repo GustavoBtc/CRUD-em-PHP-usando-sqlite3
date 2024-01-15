@@ -1,0 +1,29 @@
+*{
+    margin: 0% auto;
+    margin-top: 3px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+main{
+    width: 1300px;
+    height: 890px;
+    background-color: #FFF1D0;
+    text-align: center;
+}
+
+header{
+    width: 1300px;
+    height: 50px;
+    background-color: #006699;
+    text-align: center;
+}
+
+nav{
+    width: 1300px;
+    overflow: auto;
+    background-color: #07A0C3;
+    text-align: center;
+}
+
+
